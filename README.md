@@ -8,3 +8,4 @@
 
 ### My code is mostly okay, but sometimes I write infinite loops that bring the entire server infrastructure to its knees. ¯\\_(ツ)\_/¯
 
+[![wakatime](https://wakatime.com/badge/user/c085e511-1b89-4ce7-b9dc-0032d967d574.svg?style=for-the-badge)](https://wakatime.com/@c085e511-1b89-4ce7-b9dc-0032d967d574)
