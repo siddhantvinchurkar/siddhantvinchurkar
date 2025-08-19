@@ -1,11 +1,15 @@
-# Welcome, explorer! 🤟
+# I'm Siddhant and writing code is my one true love! 💖
 
-### I'm Siddhant and writing code is my one true love! 💖
+### I am a
+- language-independent full-stack developer ✨
+- whimsical tech lead - don't take my word for it, ask my team 🙃
+- relentless tinkerer - I break production servers at least twice a day 😶‍🌫️
 
-### Javascript is where I shine and I'm up for a React / Redux showdown any day.
-
-### I also like working with native code for Android and bash scripts. I love automating everything and I can automate anything with a bash script.
-
-### My code is mostly okay, but sometimes I write infinite loops that bring the entire server infrastructure to its knees. ¯\\_(ツ)\_/¯
-
+### Who
+- performs cloud magic and bash voodoo 🪄
+- writes code like it's meant to be used in a post-apocalyptic world ☠️
+- thinks compilers are for noobs 😑
+____
+Currently working at **[Beegru](https://beegru.com "Beegru")**, crafting the next big thing in Proptech 🏘️
+<br><br>
 [![wakatime](https://wakatime.com/badge/user/c085e511-1b89-4ce7-b9dc-0032d967d574.svg?style=for-the-badge)](https://wakatime.com/@c085e511-1b89-4ce7-b9dc-0032d967d574)
